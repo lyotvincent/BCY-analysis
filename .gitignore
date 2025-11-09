@@ -1,1 +1,6 @@
 ./data
+
+# renv
+renv/library/
+renv/local/
+renv/cache/
