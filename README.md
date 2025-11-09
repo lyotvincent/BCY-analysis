@@ -117,6 +117,5 @@ Rscript install_renv.r
  For questions or issues related to the code/data, please contact:
 
 - Jian Liu (jianliu@nankai.edu.cn)
-- Hong Liu (liuhong@tjmuch.com)
 
 For technical support, open an issue in the GitHub repository.
